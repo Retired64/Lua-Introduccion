@@ -1,3 +1,5 @@
+[parte 2](README2.md)
+
 Para introducirse en la programación con Lua, es fundamental comprender su sintaxis y conceptos básicos, así como algunas de las funciones más importantes. A continuación, te proporcionaré una guía detallada para empezar a programar en Lua y cómo puedes configurar tu entorno en Termux.
 
 ### Introducción a Lua
