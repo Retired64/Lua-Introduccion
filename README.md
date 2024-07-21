@@ -1,6 +1,8 @@
 ## PARTE DOS 
 ### CLICK AQUI ABAJO
 [parte 2](README2.md)
+## COMO USAR NANO EDITOR TERMUX?
+[Guía de uso aquí](Nano.md)
 
 Para introducirse en la programación con Lua, es fundamental comprender su sintaxis y conceptos básicos, así como algunas de las funciones más importantes. A continuación, te proporcionaré una guía detallada para empezar a programar en Lua y cómo puedes configurar tu entorno en Termux.
 
